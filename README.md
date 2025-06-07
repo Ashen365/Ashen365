@@ -27,8 +27,7 @@
 
 ## 💞️ I’m Looking to Collaborate On  
 - Open-source projects with modern UI/UX  
-- Educational or skill-sharing platforms  
-- Creative YouTube or TikTok storytelling projects  
+- Educational or skill-sharing platforms   
 - Innovative mobile and web applications  
 
 ---
