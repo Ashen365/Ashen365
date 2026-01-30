@@ -1,186 +1,165 @@
+# 👋 Hello there, I'm **Ashen Shanilka Herath** (@Ashen365)
+
 <div align="center">
 
-# 👋 Hello, I'm Ashen Shanilka Herath
-
-### Creative Developer | UI/UX Designer | Full Stack Developer | Content Creator
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashen_shanilka_herath/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashen-herath-b88879257/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MonkeyMusichub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashen365@gmail.com)
+```ascii
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║     💻  🎨  📸  🎬  ✨                                   ║
+    ║                                                           ║
+    ║         T U R N I N G   I D E A S   I N T O             ║
+    ║         R E A L I T Y   S I N C E   2 0 2 1             ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 **About Me**
 
 ```yaml
 name: Ashen Shanilka Herath
-username: Ashen365
-location: Sri Lanka
-education: SLIIT – Faculty of Computing
-role: Software Engineer | UI/UX Designer
-experience: 2+ years in UI/UX Design
+alias: Ashen365
+education: 🎓 SLIIT – Faculty of Computing
+experience:
+  - role: 🎨 UI/UX Designer
+    duration: 2+ Years
+  - role: 💻 Software Engineer
+    status: Active
+  - role: 📸 Photographer & Videographer
+    passion: High
+  - role: 🎬 Content Creator
+    platforms: [YouTube, Instagram]
+motto: "Stories into Software • Ideas into Animations"
 ```
 
-> 💡 I turn **stories into software** and **ideas into animations** 🎥✨
-
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-
----
-
-## 🌱 Currently Learning
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧑‍💻 Development</h3>
-      <ul align="left">
-        <li>📘 Advanced Java (OOP, DSA, Multithreading)</li>
-        <li>🎯 Design Patterns</li>
-        <li>🔧 Spring Boot REST APIs</li>
-        <li>🎨 Advanced React.js + Tailwind CSS</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 Data & Algorithms</h3>
-      <ul align="left">
-        <li>🧠 Data Structures & Algorithms</li>
-        <li>🐘 SQL Optimization</li>
-        <li>🍃 MongoDB Advanced Queries</li>
-        <li>⚡ Performance Optimization</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 👀 Interests & Passions
+## 🎯 **What I Do**
 
 <div align="center">
 
-| 🎨 **Design** | 💻 **Development** | 🎬 **Content Creation** |
+| 🎨 **Design** | 💻 **Development** | 🎬 **Content** |
 |:---:|:---:|:---:|
-| UI/UX Design | MERN Stack | Short Films |
-| Motion Graphics | Spring Boot | Animation |
-| Creative Frontend | Full Stack Web | Viral Content |
+| UI/UX Design | Full Stack Web Dev | Short Films |
+| Motion Graphics | MERN Stack | Photography |
+| Prototyping | Spring Boot APIs | Videography |
+| Brand Identity | React + Tailwind | Viral Content |
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate On
+## 🔭 **Currently Exploring**
 
 ```javascript
-const collaborationInterests = {
-  projects: [
-    "🌟 Open-source projects with modern UI/UX",
-    "📚 Educational or skill-sharing platforms",
-    "📱 Innovative mobile and web applications",
-    "🎨 Creative frontend experiences",
-    "🎥 Content creation tools & platforms"
-  ],
-  lookingFor: "Passionate developers, designers, and creators!",
-  availability: "Open to exciting opportunities"
+const currentlyLearning = {
+    🧠 core: ["Advanced Java", "OOP", "Design Patterns", "DSA"],
+    🌐 backend: ["Spring Boot", "REST APIs", "Microservices"],
+    🎨 frontend: ["React.js", "Tailwind CSS", "Next.js"],
+    💾 database: ["SQL", "MongoDB", "Database Design"],
+    🚀 focus: "Building scalable & beautiful applications"
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 💞️ **Let's Collaborate On**
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashen365&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 💼 What I Do
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Ashen365))
-    Software Engineer
-      Frontend Dev
-      Backend Dev
-      Full Stack
-    UI/UX Designer
-      Wireframing
-      Prototyping
-      User Research
-    Content Creator
-      Photography
-      Videography
-      Animation
-    Creative Mind
-      Problem Solving
-      Innovation
-      Storytelling
+```diff
++ Open-source projects with stunning UI/UX
++ Educational & skill-sharing platforms
++ Innovative mobile and web applications
++ Creative tech solutions that make a difference
 ```
 
+---
+
+## 📊 **Tech Stack & Tools**
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Design & Creative Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
 </div>
 
 ---
 
-## ⚡ Fun Facts
-
-- 🌙 I can design a UI while editing a short film at 3AM
-- 🎨 I believe every app should tell a story
-- 📸 Photography taught me to see details in code
-- 🎬 My code is as clean as my video edits
-- ☕ Powered by coffee and creativity
-
----
-
-## 📫 Get In Touch
+## 📫 **Connect With Me**
 
 <div align="center">
 
-### Let's build something amazing together! 🚀
+```ascii
+    ╭──────────────────────────────────────────╮
+    │                                          │
+    │   📧  ashen365@gmail.com                │
+    │   💼  LinkedIn: Ashen Shanilka Herath   │
+    │   📱  Instagram: @ashen_365             │
+    │   🎥  YouTube: Monkey Music              │
+    │                                          │
+    ╰──────────────────────────────────────────╯
+```
 
-📧 **Email:** ashen365@gmail.com  
-📱 **Instagram:** [@ashen_365](https://www.instagram.com/ashen_shanilka_herath/)  
-📸 **YouTube:** [Monkey Music](https://www.youtube.com/@MonkeyMusichub)  
-💼 **LinkedIn:** [Ashen Shanilka Herath](https://www.linkedin.com/in/ashen-herath-b88879257/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashen365@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashen-herath-b88879257/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashen_shanilka_herath/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MonkeyMusichub)
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+## ⚡ **Fun Facts**
 
-**He/Him** | **Based in Sri Lanka** 🇱🇰 | **Open to Opportunities** ✨
+```python
+class AshenShanilka:
+    def __init__(self):
+        self.pronouns = "He/Him"
+        self.superpower = "Designing UI while editing films at 3AM ☕"
+        self.philosophy = "Code is poetry, Design is art 🎨✨"
+        
+    def work_mode(self):
+        return "☕ Coffee → 💡 Ideas → 💻 Code → 🚀 Deploy"
+        
+    def life_motto(self):
+        return "Turn stories into software & ideas into animations 🎥✨"
+```
+
+---
+
+<div align="center">
+
+### 🌟 **"Building the future, one pixel and one line of code at a time"** 🌟
+
+```ascii
+    ┌─────────────────────────────────────────┐
+    │  Thanks for visiting my profile! 🚀    │
+    │  Let's create something amazing! ✨     │
+    └─────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashen365&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Open to freelance opportunities • Let's collaborate! 🤝**
 
 </div>
