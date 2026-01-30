@@ -6,8 +6,8 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║     ✨ Crafting Digital Experiences & Visual Stories ✨     ║
-║                                                              ���
-║        💻 Code  •  🎨 Design  •  📸 Create  •  ✨ Inspire    ║
+║                                                              ║  
+║        💻 Code  •  🎨 Design  •  📸 Create  •  ✨ Inspire  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -272,14 +272,14 @@ print(dev.life_motto())
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   🌟 "Building the future, one pixel and one line            ║
-║       of code at a time" 🌟                                   ║
-║                                                               ║
-║   💼 Open to freelance opportunities                          ║
-║   🤝 Available for interesting collaborations                 ║
-║   📫 Always happy to connect with fellow creators!            ║
-║                                                               ║
+                                                               
+   🌟 "Building the future, one pixel and one line            
+       of code at a time" 🌟                                  
+                                                               
+   💼 Open to freelance opportunities                          
+   🤝 Available for interesting collaborations                 
+   📫 Always happy to connect with fellow creators!            
+                                                               
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -307,11 +307,11 @@ print(dev.life_motto())
 
 ```ascii
     ┌──────────────────────────────────────────────┐
-    │                                              │
-    │  ✨ Thanks for visiting my profile! ✨      │
-    │                                              │
-    │     Let's create something amazing! 🚀       │
-    │                                              │
+                                                  
+      ✨ Thanks for visiting my profile! ✨      
+                                                  
+         Let's create something amazing! 🚀       
+                                                  
     └──────────────────────────────────────────────┘
 ```
 
