@@ -192,34 +192,6 @@ const ashenShanilka = {
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<!-- Row 1: Stats + Languages side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak (separate div to force its own line) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen365&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&fire=ec4899&currstreaknum=ffffff&sideNums=a855f7&currstreaklabel=a855f7&sideLabels=94a3b8&daterange=94a3b8" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashen365&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-x=10" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 📈 Contribution Graph
