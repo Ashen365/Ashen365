@@ -195,8 +195,9 @@ const ashenShanilka = {
 ## 📊 GitHub Stats
 
 <!-- Row 1: Stats + Languages side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0" alt="Ashen's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" />
 
 </div>
 
