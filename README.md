@@ -4,37 +4,23 @@
 
 <br/>
 
-<!-- Animated Avatar Ring -->
 <a href="https://github.com/Ashen365">
-  <img src="https://avatars.githubusercontent.com/u/YOURUSERID?v=4&size=120" 
-       style="border-radius:50%; border: 4px solid #6366f1;" 
-       width="120" height="120" alt="Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/YOURUSERID?v=4" width="120" height="120" style="border-radius:50%;" alt="Avatar"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&size=22&duration=3500&pause=1500&color=a855f7&center=true&vCenter=true&multiline=true&width=550&lines=✨+Crafting+Digital+Experiences;💻+Code+•+🎨+Design+•+📸+Create;🚀+Turning+Stories+into+Software" alt="Typing Animation" />
+<img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&size=22&duration=3500&pause=1500&color=a855f7&center=true&vCenter=true&multiline=true&width=550&lines=✨+Crafting+Digital+Experiences;💻+Code+•+🎨+Design+•+📸+Create;🚀+Turning+Stories+into+Software" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Social Badges Row -->
-<a href="mailto:ashen365@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/ashen-herath-b88879257/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/ashen_shanilka_herath/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@MonkeyMusichub">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+<a href="mailto:ashen365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/ashen-herath-b88879257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ashen_shanilka_herath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@MonkeyMusichub"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/><br/>
 
-<!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=Ashen365&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Ashen365?style=for-the-badge&color=a855f7&labelColor=1a1a2e&logo=github" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/Ashen365?style=for-the-badge&color=ec4899&labelColor=1a1a2e&logo=github&label=Stars" alt="Stars"/>
@@ -104,6 +90,8 @@ const ashenShanilka = {
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+<br/><br/>
 
 ### 🛠️ Tools & Other
 
@@ -207,18 +195,16 @@ const ashenShanilka = {
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0&rank_icon=default" alt="Ashen's Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" alt="Top Languages"/>
+<!-- Row 1: Stats + Languages side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashen365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=e2e8f0" alt="Ashen's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen365&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" />
 
-<br/>
+</div>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen365&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&fire=ec4899&currstreaknum=ffffff&sideNums=a855f7&currstreaklabel=a855f7&sideLab els=94a3b8&daterange=94a3b8" alt="Streak Stats"/>
+<div align="center">
 
-<br/>
-
-<!-- WakaTime (optional – enable WakaTime on your GitHub) -->
-<!-- <img src="https://img.shields.io/wakatime/last-7-days/Ashen365?style=for-the-badge&color=6366f1" alt="WakaTime"/> -->
+<!-- Streak (separate div to force its own line) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashen365&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&fire=ec4899&currstreaknum=ffffff&sideNums=a855f7&currstreaklabel=a855f7&sideLabels=94a3b8&daterange=94a3b8" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -228,7 +214,7 @@ const ashenShanilka = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashen365&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-x=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashen365&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-x=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -238,22 +224,7 @@ const ashenShanilka = {
 
 ## 📈 Contribution Graph
 
-<a href="https://github.com/Ashen365">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashen365&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6366f1&point=a855f7&area=true&area_color=6366f120" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Spotify Now Playing
-
-<!-- Replace with your own Spotify Now Playing card setup -->
-<!-- [![Spotify](https://novatorem.netlify.app/api/spotify)](https://open.spotify.com/user/YOUR_ID) -->
-
-<img src="https://img.shields.io/badge/Spotify-Currently_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashen365&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6366f1&point=a855f7&area=true&area_color=6366f1" alt="Contribution Graph" />
 
 </div>
 
@@ -302,7 +273,7 @@ print(dev.life_motto())   # ✨ Build the future, one pixel at a time
 
 ## 💭 Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 
 </div>
 
@@ -329,21 +300,13 @@ print(dev.life_motto())   # ✨ Build the future, one pixel at a time
 
 ### 🌐 Find Me Across The Web
 
-<a href="mailto:ashen365@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-ashen365%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="mailto:ashen365@gmail.com"><img src="https://img.shields.io/badge/📧_Email-ashen365%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/>
-<a href="https://www.linkedin.com/in/ashen-herath-b88879257/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Ashen_Shanilka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/ashen-herath-b88879257/"><img src="https://img.shields.io/badge/💼_LinkedIn-Ashen_Shanilka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/>
-<a href="https://www.instagram.com/ashen_shanilka_herath/">
-  <img src="https://img.shields.io/badge/📱_Instagram-@ashen_shanilka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/ashen_shanilka_herath/"><img src="https://img.shields.io/badge/📱_Instagram-ashen_shanilka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br/>
-<a href="https://www.youtube.com/@MonkeyMusichub">
-  <img src="https://img.shields.io/badge/🎥_YouTube-Monkey_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
+<a href="https://www.youtube.com/@MonkeyMusichub"><img src="https://img.shields.io/badge/🎥_YouTube-Monkey_Music-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/><br/>
 
