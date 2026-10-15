@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/Ashen365">
+  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/168340373&w=120&h=120&fit=cover&mask=circle" width="120" height="120" alt="Ashen Shanilka Herath"/>
+</a>
+
 ### Ashen Shanilka Herath
 
 **Full Stack Developer · UI/UX Designer · Content Creator**
@@ -10,6 +14,7 @@ Turning ideas into clean, usable software.
 <a href="https://www.linkedin.com/in/ashen-herath-b88879257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/ashen_shanilka_herath/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.youtube.com/@MonkeyMusichub"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://my-portfolio-orpin-three-38.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="My Portfolio"/></a>
 
 </div>
 
